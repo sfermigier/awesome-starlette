@@ -112,14 +112,14 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 *Frameworks built using Starlette as a core component.*
 
 - [FastAPI](https://github.com/tiangolo/fastapi) ★82747 - A modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. [Docs](https://fastapi.tiangolo.com/)
-- [Dark Star](https://github.com/lllama/dark-star) ★19 - Changes your file paths into Starlette routes and puts your view code right next to your template. Includes support for htmx. [Docs](https://lllama.github.io/dark-star)
 - [Ellar](https://github.com/eadwinCode/ellar) ★55 - ASGI web framework for building fast, efficient and scalable REST APIs and server-side applications, inspired by NestJS. Built on Starlette, Pydantic, and Injector. [Docs](https://eadwincode.github.io/ellar/)
 - [Flama](https://github.com/vortico/flama) ★274 - Data-science oriented framework to rapidly build modern and robust machine learning APIs with automatic deployment. [Docs](https://flama.dev/)
-- [Greppo](https://github.com/greppo-io/greppo) ★399 - Python framework for building geospatial dashboards and web-applications with data mutation hooks. [Docs](https://docs.greppo.io/)
 - [Shiny](https://github.com/posit-dev/py-shiny) ★1431 - Effortless Python web applications using reactive programming, built by Posit (formerly RStudio). [Docs](https://shiny.posit.co/py/)
-- [Starlette-apps](https://github.com/yourlabs/starlette-apps) ★3 - Roll your own framework with a simple app system, like Django-GDAPS or CakePHP.
-- [Xpresso](https://github.com/adriangb/xpresso) ★180 - Flexible and extendable web framework built on top of Starlette, Pydantic and `di`. [Docs](https://xpresso-api.dev/)
-- ⚠️ [Responder](https://github.com/taoufik07/responder) ★3604 - (Archived) A familiar HTTP Service Framework for Python, built on Starlette anduvloop. [Docs](https://python-responder.org/en/latest/)
+- ⚠️ [Dark Star](https://github.com/lllama/dark-star) ★19 - (Inactive) Changes your file paths into Starlette routes and puts your view code right next to your template. Includes support for htmx. [Docs](https://lllama.github.io/dark-star)
+- ⚠️ [Greppo](https://github.com/greppo-io/greppo) ★399 - (Inactive) Python framework for building geospatial dashboards and web-applications with data mutation hooks. [Docs](https://docs.greppo.io/)
+- ⚠️ [Responder](https://github.com/taoufik07/responder) ★3604 - (Archived) A familiar HTTP Service Framework for Python, built on Starlette and uvloop. [Docs](https://python-responder.org/en/latest/)
+- ⚠️ [Starlette-apps](https://github.com/yourlabs/starlette-apps) ★3 - (Inactive) Roll your own framework with a simple app system, like Django-GDAPS or CakePHP.
+- ⚠️ [Xpresso](https://github.com/adriangb/xpresso) ★180 - (Abandonned) Flexible and extendable web framework built on top of Starlette, Pydantic and `di`. [Docs](https://xpresso-api.dev/)
 
 
 ## Contributing

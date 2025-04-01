@@ -34,7 +34,8 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 
 ### Admin
 
-- [Starlette-Admin](https://github.com/jowilf/starlette-admin) ★736 - Simple and extensible admin interface framework built with Tabler and Datatables. Supports complex filtering, exports, file uploads. [Docs](https://jowilf.github.io/starlette-admin)
+- [sqladmin](https://github.com/aminalaee/sqladmin) ★2089 -  SQLAlchemy Admin for FastAPI and Starlette
+- [Starlette-Admin](https://github.com/jowilf/starlette-admin) ★737 - Simple and extensible admin interface framework built with Tabler and Datatables. Supports complex filtering, exports, file uploads. [Docs](https://jowilf.github.io/starlette-admin)
 - ⚠️ [starlette-admin](https://github.com/accent-starlette/starlette-admin) ★40 - (Archived) Simple admin site for CRUD operations from the `accent-starlette` project group.
 
 ### API (REST, GraphQL...)
@@ -42,7 +43,7 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 - [Apiman](https://github.com/strongbugman/apiman) ★111 - Integrate Swagger/OpenAPI documentation easily, providing SwaggerUI and RedocUI.
 - [SpecTree](https://github.com/0b01001001/spectree) ★332 - Generate OpenAPI documentation and validate requests & responses using Python annotations. [Docs](https://spectree.readthedocs.io/)
 - [Starlette APISpec](https://github.com/Woile/starlette-apispec) ★53 - Simple APISpec integration. Document your REST API by declaring OpenAPI schemas in YAML format in endpoint docstrings.
-- [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) ★4218 - Python GraphQL library based on dataclasses, works well with Starlette/FastAPI. [Docs](https://strawberry.rocks/)
+- [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) ★4217 - Python GraphQL library based on dataclasses, works well with Starlette/FastAPI. [Docs](https://strawberry.rocks/)
 - [uapi](https://github.com/Tinche/uapi) ★92 - An elegant, high-level, extremely low-overhead microframework for writing HTTP APIs, either synchronously or asynchronously.
 
 ### APM & Monitoring
@@ -111,7 +112,7 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 
 *Frameworks built using Starlette as a core component.*
 
-- [FastAPI](https://github.com/tiangolo/fastapi) ★82747 - A modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. [Docs](https://fastapi.tiangolo.com/)
+- [FastAPI](https://github.com/tiangolo/fastapi) ★82753 - A modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints. [Docs](https://fastapi.tiangolo.com/)
 - [Ellar](https://github.com/eadwinCode/ellar) ★55 - ASGI web framework for building fast, efficient and scalable REST APIs and server-side applications, inspired by NestJS. Built on Starlette, Pydantic, and Injector. [Docs](https://eadwincode.github.io/ellar/)
 - [Flama](https://github.com/vortico/flama) ★274 - Data-science oriented framework to rapidly build modern and robust machine learning APIs with automatic deployment. [Docs](https://flama.dev/)
 - [Shiny](https://github.com/posit-dev/py-shiny) ★1431 - Effortless Python web applications using reactive programming, built by Posit (formerly RStudio). [Docs](https://shiny.posit.co/py/)
@@ -120,6 +121,10 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 - ⚠️ [Responder](https://github.com/taoufik07/responder) ★3604 - (Archived) A familiar HTTP Service Framework for Python, built on Starlette and uvloop. [Docs](https://python-responder.org/en/latest/)
 - ⚠️ [Starlette-apps](https://github.com/yourlabs/starlette-apps) ★3 - (Inactive) Roll your own framework with a simple app system, like Django-GDAPS or CakePHP.
 - ⚠️ [Xpresso](https://github.com/adriangb/xpresso) ★180 - (Abandonned) Flexible and extendable web framework built on top of Starlette, Pydantic and `di`. [Docs](https://xpresso-api.dev/)
+
+## Starter / App Templates
+
+- [StarletteStarter](https://github.com/jockerz/StarletteStarter) ★5 - Starlette web application starter. Ready with Register, Login, Forgot Password, Setting and more pages.
 
 
 ## Contributing

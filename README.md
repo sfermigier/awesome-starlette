@@ -24,6 +24,7 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
   - [Forms](#forms)
   - [Internationalization (i18n)](#internationalization-i18n)
   - [Routing](#routing)
+  - [Security](#security)
   - [Static Files](#static-files)
   - [WebSockets](#websockets)
 - [Frameworks](#frameworks)
@@ -99,6 +100,10 @@ Starlette is a lightweight [ASGI](https://asgi.readthedocs.io/) framework/toolki
 
 - [DecoRouter](https://github.com/MrPigss/DecoRouter) ★24 - FastAPI-style routing for Starlette using decorators.
 - [starlette-dispatch](https://github.com/alex-oleshkevich/starlette-dispatch) ★2 - Routing extensions and dependency injection for Starlette.
+
+### Security
+
+- [fastapi-guard](https://github.com/Guard-Core/fastapi-guard) ★825 - Security middleware for FastAPI and Starlette with IP filtering, rate limiting with automatic bans and penetration attempt detection. [Docs](https://guard-core.github.io/fastapi-guard/latest/)
 
 ### Static Files
 
